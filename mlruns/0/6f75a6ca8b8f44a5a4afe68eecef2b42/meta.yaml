@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps%20Projects/Colorectal%20Cancer%20Prediction/mlruns/0/6f75a6ca8b8f44a5a4afe68eecef2b42/artifacts
+end_time: 1745663309612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f75a6ca8b8f44a5a4afe68eecef2b42
+run_name: spiffy-elk-164
+run_uuid: 6f75a6ca8b8f44a5a4afe68eecef2b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745663300419
+status: 3
+tags: []
+user_id: Ambuj nayan mishra

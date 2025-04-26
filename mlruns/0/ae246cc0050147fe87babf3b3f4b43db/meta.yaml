@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps%20Projects/Colorectal%20Cancer%20Prediction/mlruns/0/ae246cc0050147fe87babf3b3f4b43db/artifacts
+end_time: 1745663511938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae246cc0050147fe87babf3b3f4b43db
+run_name: nimble-koi-692
+run_uuid: ae246cc0050147fe87babf3b3f4b43db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745663502776
+status: 3
+tags: []
+user_id: Ambuj nayan mishra
