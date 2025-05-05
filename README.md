@@ -76,7 +76,7 @@ mlflow ui
 ```
 
 Access the MLflow UI at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
-
+<img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/mlflow.png">
 ---
 
 ## 🏠 Run Flask App Locally
