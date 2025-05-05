@@ -77,6 +77,8 @@ mlflow ui
 
 Access the MLflow UI at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 <img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/mlflow.png">
+<img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/mlflow1.png">
+<img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/dagshub.png">
 ---
 
 ## 🏠 Run Flask App Locally
@@ -96,6 +98,8 @@ Visit: [http://127.0.0.1:8080](http://127.0.0.1:8080)
 ```bash
 docker build -t cancer-prediction-app .
 ```
+<img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/docker.png">
+
 
 ## 🚤 Run Docker Container
 
@@ -123,6 +127,7 @@ minikube service istio-ingressgateway -n istio-system
 
 Use the `kubeflow_pipeline/mlops_pipeline.py` to define and run the full pipeline.
 
+<img src="https://github.com/ambuj6392/Colorectal_Cancer_Prediction/blob/main/images/kubeflow.png">
 ---
 
 # 📁 Folder Structure
